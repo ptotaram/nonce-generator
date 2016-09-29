@@ -3,7 +3,7 @@
 Generates a random alphanumeric string of the given length.
 
 ```javascript
-var nonce = require('nonce');
+var nonce = require('nonce-generator');
 console.log(nonce(5));
 ```
 
