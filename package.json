@@ -1,6 +1,6 @@
 {
   "name": "nonce-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Synchronusly generate nonce tokens",
   "main": "index.js",
   "scripts": {
