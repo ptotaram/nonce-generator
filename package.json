@@ -1,0 +1,21 @@
+{
+  "name": "nonce-generator",
+  "version": "1.0.0",
+  "description": "Synchronusly generate nonce tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ptotaram/nonce-generator/"
+  },
+  "keywords": [
+    "nonce"
+  ],
+  "author": "Pream Totaram <pream@preamtotaram.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "unit.js": "^2.0.0"
+  }
+}
